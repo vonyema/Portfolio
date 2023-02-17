@@ -1,7 +1,7 @@
-#Portfolio
+# Portfolio
 * This application was created to showcase my abilities, including my skills and projects.
 
-###Technolgies Used:
+### Technolgies Used:
 * React.Js
 * Tailwind Css
 * Framer Motion
@@ -12,5 +12,5 @@
 ### Getting Started:
 [Get Started](https://portfolio-vonyema.netlify.app/)
 
-###Future Enchancements:
+### Future Enchancements:
 * I started adding animation but theres one library that I have to do more research.
